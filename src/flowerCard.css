@@ -1,0 +1,17 @@
+.flowers{
+    width: 40%;
+    background-color: azure;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-bottom: 2rem;
+    margin-bottom: 3rem;
+}
+
+.image{
+    margin-right: 4rem;
+    margin-left: 4rem;
+}
+.button{
+    margin-bottom: 2rem;
+}
